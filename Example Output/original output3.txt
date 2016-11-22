@@ -1,0 +1,11 @@
+        |                       TRAIN                      ||                     TEST                     
+Epoch 1 | Cost: 0.240 | Correct: 41307/45000 | Acc: 0.9179 || Cost: 0.258 | Correct: 4560/5000 | Acc: 0.9120
+Epoch 2 | Cost: 0.180 | Correct: 42152/45000 | Acc: 0.9367 || Cost: 0.216 | Correct: 4625/5000 | Acc: 0.9250
+Epoch 3 | Cost: 0.173 | Correct: 42215/45000 | Acc: 0.9381 || Cost: 0.211 | Correct: 4655/5000 | Acc: 0.9310
+Epoch 4 | Cost: 0.142 | Correct: 42734/45000 | Acc: 0.9496 || Cost: 0.180 | Correct: 4710/5000 | Acc: 0.9420
+Epoch 5 | Cost: 0.151 | Correct: 42516/45000 | Acc: 0.9448 || Cost: 0.192 | Correct: 4675/5000 | Acc: 0.9350
+Epoch 6 | Cost: 0.141 | Correct: 42760/45000 | Acc: 0.9502 || Cost: 0.186 | Correct: 4689/5000 | Acc: 0.9378
+Epoch 7 | Cost: 0.160 | Correct: 42396/45000 | Acc: 0.9421 || Cost: 0.214 | Correct: 4637/5000 | Acc: 0.9274
+Epoch 8 | Cost: 0.126 | Correct: 42951/45000 | Acc: 0.9545 || Cost: 0.174 | Correct: 4701/5000 | Acc: 0.9402
+Epoch 9 | Cost: 0.138 | Correct: 42771/45000 | Acc: 0.9505 || Cost: 0.181 | Correct: 4701/5000 | Acc: 0.9402
+Epoch 10 | Cost: 0.138 | Correct: 42797/45000 | Acc: 0.9510 || Cost: 0.182 | Correct: 4681/5000 | Acc: 0.9362
